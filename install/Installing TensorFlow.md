@@ -16,3 +16,7 @@ TensorFlow 的 Python API 很多从 0.n 版本更改为 1.0. 下面的指南说�
 - 安装 TensorFlow  Java 库
 - 安装 TensorFlow C 库
 - 安装 TensorFlow Go 库
+
+
+
+> 原文：https://www.tensorflow.org/install/
